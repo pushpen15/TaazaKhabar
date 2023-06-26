@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31ffc101.css",
+    "main.js": "/static/js/main.481763b1.js",
+    "static/js/787.4c026eef.chunk.js": "/static/js/787.4c026eef.chunk.js",
+    "static/media/vintage-grunge-paper-background.jpg": "/static/media/vintage-grunge-paper-background.1108977a74a4d7d9f8ac.jpg",
+    "static/media/loading.gif": "/static/media/loading.5338d2d85cd984811c26.gif",
+    "index.html": "/index.html",
+    "main.31ffc101.css.map": "/static/css/main.31ffc101.css.map",
+    "main.481763b1.js.map": "/static/js/main.481763b1.js.map",
+    "787.4c026eef.chunk.js.map": "/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31ffc101.css",
+    "static/js/main.481763b1.js"
+  ]
+}
